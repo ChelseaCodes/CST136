@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inheritance Example", "Inheritance Example\Inheritance Example.vcxproj", "{E63F4E0F-FC0B-4B08-B326-C960DCBC2E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E63F4E0F-FC0B-4B08-B326-C960DCBC2E9A}.Debug|x64.ActiveCfg = Debug|x64
+		{E63F4E0F-FC0B-4B08-B326-C960DCBC2E9A}.Debug|x64.Build.0 = Debug|x64
+		{E63F4E0F-FC0B-4B08-B326-C960DCBC2E9A}.Debug|x86.ActiveCfg = Debug|Win32
+		{E63F4E0F-FC0B-4B08-B326-C960DCBC2E9A}.Debug|x86.Build.0 = Debug|Win32
+		{E63F4E0F-FC0B-4B08-B326-C960DCBC2E9A}.Release|x64.ActiveCfg = Release|x64
+		{E63F4E0F-FC0B-4B08-B326-C960DCBC2E9A}.Release|x64.Build.0 = Release|x64
+		{E63F4E0F-FC0B-4B08-B326-C960DCBC2E9A}.Release|x86.ActiveCfg = Release|Win32
+		{E63F4E0F-FC0B-4B08-B326-C960DCBC2E9A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cchristison.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Inheritance\u0020Example\\Inheritance\u0020Example.vcxproj
+		SccProjectName1 = Inheritance\u0020Example
+		SccLocalPath1 = Inheritance\u0020Example
+	EndGlobalSection
+EndGlobal

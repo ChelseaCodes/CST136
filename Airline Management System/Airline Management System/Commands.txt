@@ -1,0 +1,21 @@
+PA
+PN Chicago
+PC CINC
+EC
+DN Atlanta
+DC LMTK
+PN Atlanta
+PC LMTK
+PN SanFran
+PN NewYorkJet
+PC OAKL
+PC KCMO
+DN Reno
+EC
+PA
+DC LAXX
+PN LosAngelos
+DC NYJE
+DC NYGI
+PA
+EX

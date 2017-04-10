@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalcDLL", "CalcDLLL\CalcDLLL.vcxproj", "{5240F22F-55A4-4D25-A052-9548824F0039}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleCpp", "ConsoleCpp\ConsoleCpp.vcxproj", "{C6FAC304-E442-4E63-9EAF-771EC5E2076A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5240F22F-55A4-4D25-A052-9548824F0039}.Debug|x64.ActiveCfg = Debug|x64
+		{5240F22F-55A4-4D25-A052-9548824F0039}.Debug|x64.Build.0 = Debug|x64
+		{5240F22F-55A4-4D25-A052-9548824F0039}.Debug|x86.ActiveCfg = Debug|Win32
+		{5240F22F-55A4-4D25-A052-9548824F0039}.Debug|x86.Build.0 = Debug|Win32
+		{5240F22F-55A4-4D25-A052-9548824F0039}.Release|x64.ActiveCfg = Release|x64
+		{5240F22F-55A4-4D25-A052-9548824F0039}.Release|x64.Build.0 = Release|x64
+		{5240F22F-55A4-4D25-A052-9548824F0039}.Release|x86.ActiveCfg = Release|Win32
+		{5240F22F-55A4-4D25-A052-9548824F0039}.Release|x86.Build.0 = Release|Win32
+		{C6FAC304-E442-4E63-9EAF-771EC5E2076A}.Debug|x64.ActiveCfg = Debug|x64
+		{C6FAC304-E442-4E63-9EAF-771EC5E2076A}.Debug|x64.Build.0 = Debug|x64
+		{C6FAC304-E442-4E63-9EAF-771EC5E2076A}.Debug|x86.ActiveCfg = Debug|Win32
+		{C6FAC304-E442-4E63-9EAF-771EC5E2076A}.Debug|x86.Build.0 = Debug|Win32
+		{C6FAC304-E442-4E63-9EAF-771EC5E2076A}.Release|x64.ActiveCfg = Release|x64
+		{C6FAC304-E442-4E63-9EAF-771EC5E2076A}.Release|x64.Build.0 = Release|x64
+		{C6FAC304-E442-4E63-9EAF-771EC5E2076A}.Release|x86.ActiveCfg = Release|Win32
+		{C6FAC304-E442-4E63-9EAF-771EC5E2076A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cchristison.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CalcDLLL\\CalcDLLL.vcxproj
+		SccProjectName1 = CalcDLLL
+		SccLocalPath1 = CalcDLLL
+		SccProjectUniqueName2 = ConsoleCpp\\ConsoleCpp.vcxproj
+		SccProjectName2 = ConsoleCpp
+		SccLocalPath2 = ConsoleCpp
+	EndGlobalSection
+EndGlobal

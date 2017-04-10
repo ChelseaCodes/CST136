@@ -1,0 +1,74 @@
+LAXX LosAngelos Breedlove 5418842345 5
+FCL5 Goinback TBreedl SanFran 400 585
+FCL4 Goinhome SYang KFalls 400 445
+FCL3 Alcatras BrianF SFBay 420 650
+FCL2 SouthSD HWorld SDiego 200 250
+FCL1 Outthere Engineer Berkely 450 543
+PDXX Portland Albert 5033359990 4
+FCP4 SouthASH RalphC Ashland 290 359
+FCP3 Middle IsaacG Bend 150 225
+FCP2 SouthCent DrJim KFalls 220 456
+FCP1 East PRanch Cowboy 290 650
+SFOO SanFran Montana 4086674235 4
+FCS4 SoCal SYoung LosAngelos 400 585
+FCS3 Local Russel Oakland 100 100
+FCS2 NorCal LBrandt Redding 200 275
+FCS1 EastCal Leffew Oakdale 240 320
+RENN Reno Metzler 6678879856 3
+FCR3 SouthNev Collins LasVegas 430 25
+FCR2 EastNev Parker Ely 330 500
+FCR1 NorthNev Rosemarie Alturas 175 275
+OHAR Chicago Caldwell 4560099977 5
+FCO5 Football Farve GreenBay 150 250
+FCO4 EastChi BYoung SaltLake 340 600
+FCO3 NDak Hunter Elgen 490 490
+FCO2 SDak Trapper Mike 460 440
+FCO1 Minni Mouse UpState 388 244
+ATLA Atlanta Yang 6352746655 4
+FCA4 Swamp BradMan OakieFino 190 230
+FCA3 Humid Alligator Orlando 200 300
+FCA2 Country Montgomery Williams 150 150
+FCA1 Quitten SingerS LittleRk 234 432
+INDI Indianapol Manning 3547621111 2
+FCI2 JTown Archie JonesTown 320 475
+FCI1 Etown Eli NYGiants 340 650
+MINN Mineapolis Farve 3400009999 4
+FCM4 Rivalry Rogers GreenBay 99 99
+FCM3 BestEver AllDay Paradise 800 999
+FCM2 Pilot BobG TempleNH 340 450
+FCM1 Hiking GenElect Albany 230 400
+NEWO NewOrleans Breese 1112222333 1
+FCN1 BStreet SandraD Downtown 5 25
+NYJE NewYorkJet Sanchez 5731323445 3
+FCJ3 NextDoor DaveC Newark 75 90
+FCJ2 Southby Brian Homedale 2000 875
+FCJ1 NextKin Kelsea WiardP 2002 875
+NYGI NewYorkGia Eli 0908781234 3
+FCG3 NextDoro Reagan NYCity 75 90
+FCG2 CookCount SuzzaneC PennState 175 170
+FCG1 DueNorth JergieJ Maine 200 245
+KCMO KansasCity Cassel 1012923847 5
+FCC5 Townsquare JesseJames Liberty 75 100
+FCC4 Arch CptKCC StLouis 300 250
+FCC3 BigShow TTucker Joplin 200 345
+FCC2 Capital Craig Lincoln 150 275
+FCC1 Skiresort Vayda Aspen 560 600
+SEAT Seattle Hassel 5657473829 2
+FCS2 Vanc George Vancouver 120 75
+FCS1 Tac SaraG Tacoma 120 75
+ARIZ Arizona Oldguy 5556677888 1
+FCA1 GBetter Warner Phoenix 35 35
+NASH Nashville Elvis 5567890987 2
+FCH2 Countyline WillSenior Montgomery 230 450
+FCH1 Golf Palmer USOpen 200 250
+LMTK Klamath Kellstrom 1212323443 3
+FCT3 Shakesp Willy Ashland 60 175
+FCT2 Fishing Sully Chiloquin 30 30
+FCT1 LOW George LakeFront 60 300
+EUGE Eugene Youngguy 4541234321 2
+FCE2 Beaves Orange Corvallis 50 50
+FCE1 Ducks Hometown Euge 10 10
+HEAT London Nyugen 0900900909 3
+FCP3 BeenThere NeilZ Amsterdam 445 300
+FCP2 Summerfun Eve Paris 280 100
+FCP1 Homeland DennisB Ireland 340 450

@@ -1,0 +1,726 @@
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+
+****Deleted Atlanta from AirData
+
+****Deleted LMTK from AirData
+
+
+****Could not find Atlanta
+
+
+****Could not find LMTK
+
+Found:
+Name/Code: SanFran, SFOO
+Manager: Montana	Phone Number: 4086674235
+
+
+--
+Found:
+Name/Code: NewYorkJet, NYJE
+Manager: Sanchez	Phone Number: 5731323445
+
+
+--
+Found:
+Name/Code: Oakland, OAKL
+Manager: Russel	Phone Number: 2934855767
+
+
+--
+Found:
+Name/Code: KansasCity, KCMO
+Manager: Cassel	Phone Number: 1012923847
+
+
+--
+****Deleted Reno from AirData
+

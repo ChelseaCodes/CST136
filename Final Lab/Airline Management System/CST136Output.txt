@@ -1,0 +1,820 @@
+PA
+___________________________________________________________________
+                        Generic Iterator
+
+ARIZ       Arizona        Oldguy         5556677888     
+- FCA1       GBetter        Warner         Phoenix     35 mi.	$35
+ATLA       Atlanta        Yang           6352746655     
+- FCA2       Country        Montgomery     Williams    150 mi.	$150
+- FCA3       Humid          Alligator      Orlando     200 mi.	$300
+- FCA1       Quitten        SingerS        LittleRk    234 mi.	$432
+- FCA4       Swamp          BradMan        OakieFino   190 mi.	$230
+OHAR       Chicago        Caldwell       4560099977     
+- FCO4       EastChi        BYoung         SaltLake    340 mi.	$600
+- FCO5       Football       Farve          GreenBay    150 mi.	$250
+- FCO1       Minni          Mouse          UpState     388 mi.	$244
+- FCO3       NDak           Hunter         Elgen       490 mi.	$490
+- FCO2       SDak           Trapper        Mike        460 mi.	$440
+EUGE       Eugene         Youngguy       4541234321     
+- FCE2       Beaves         Orange         Corvallis   50 mi.	$50
+- FCE1       Ducks          Hometown       Euge        10 mi.	$10
+INDI       Indianapol     Manning        3547621111     
+- FCI1       Etown          Eli            NYGiants    340 mi.	$650
+- FCI2       JTown          Archie         JonesTown   320 mi.	$475
+KCMO       KansasCity     Cassel         1012923847     
+- FCC4       Arch           CptKCC         StLouis     300 mi.	$250
+- FCC3       BigShow        TTucker        Joplin      200 mi.	$345
+- FCC2       Capital        Craig          Lincoln     150 mi.	$275
+- FCC1       Skiresort      Vayda          Aspen       560 mi.	$600
+- FCC5       Townsquare     JesseJames     Liberty     75 mi.	$100
+LMTK       Klamath        Kellstrom      1212323443     
+- FCT2       Fishing        Sully          Chiloquin   30 mi.	$30
+- FCT1       LOW            George         LakeFront   60 mi.	$300
+- FCT3       Shakesp        Willy          Ashland     60 mi.	$175
+HEAT       London         Nyugen         0900900909     
+- FCP3       BeenThere      NeilZ          Amsterdam   445 mi.	$300
+- FCP1       Homeland       DennisB        Ireland     340 mi.	$450
+- FCP2       Summerfun      Eve            Paris       280 mi.	$100
+LAXX       LosAngelos     Breedlove      5418842345     
+- FCL3       Alcatras       BrianF         SFBay       420 mi.	$650
+- FCL5       Goinback       TBreedl        SanFran     400 mi.	$585
+- FCL4       Goinhome       SYang          KFalls      400 mi.	$445
+- FCL1       Outthere       Engineer       Berkely     450 mi.	$543
+- FCL2       SouthSD        HWorld         SDiego      200 mi.	$250
+MINN       Mineapolis     Farve          3400009999     
+- FCM3       BestEver       AllDay         Paradise    800 mi.	$999
+- FCM1       Hiking         GenElect       Albany      230 mi.	$400
+- FCM2       Pilot          BobG           TempleNH    340 mi.	$450
+- FCM4       Rivalry        Rogers         GreenBay    99 mi.	$99
+NASH       Nashville      Elvis          5567890987     
+- FCH2       Countyline     WillSenior     Montgomery  230 mi.	$450
+- FCH1       Golf           Palmer         USOpen      200 mi.	$250
+NEWO       NewOrleans     Breese         1112222333     
+- FCN1       BStreet        SandraD        Downtown    5 mi.	$25
+NYGI       NewYorkGia     Eli            0908781234     
+- FCG2       CookCount      SuzzaneC       PennState   175 mi.	$170
+- FCG1       DueNorth       JergieJ        Maine       200 mi.	$245
+- FCG3       NextDoro       Reagan         NYCity      75 mi.	$90
+NYJE       NewYorkJet     Sanchez        5731323445     
+- FCJ3       NextDoor       DaveC          Newark      75 mi.	$90
+- FCJ1       NextKin        Kelsea         WiardP      2002 mi.	$875
+- FCJ2       Southby        Brian          Homedale    2000 mi.	$875
+PDXX       Portland       Albert         5033359990     
+- FCP1       East           PRanch         Cowboy      290 mi.	$650
+- FCP3       Middle         IsaacG         Bend        150 mi.	$225
+- FCP4       SouthASH       RalphC         Ashland     290 mi.	$359
+- FCP2       SouthCent      DrJim          KFalls      220 mi.	$456
+RENN       Reno           Metzler        6678879856     
+- FCR2       EastNev        Parker         Ely         330 mi.	$500
+- FCR1       NorthNev       Rosemarie      Alturas     175 mi.	$275
+- FCR3       SouthNev       Collins        LasVegas    430 mi.	$25
+SFOO       SanFran        Montana        4086674235     
+- FCS1       EastCal        Leffew         Oakdale     240 mi.	$320
+- FCS3       Local          Russel         Oakland     100 mi.	$100
+- FCS2       NorCal         LBrandt        Redding     200 mi.	$275
+- FCS4       SoCal          SYoung         LosAngelos  400 mi.	$585
+SEAT       Seattle        Hassel         5657473829     
+- FCS1       Tac            SaraG          Tacoma      120 mi.	$75
+- FCS2       Vanc           George         Vancouver   120 mi.	$75
+___________________________________________________________________
+
+___________________________________________________________________
+                           Skip Iterator
+
+ARIZ       Arizona        Oldguy         5556677888     
+- FCA1       GBetter        Warner         Phoenix     35 mi.	$35
+OHAR       Chicago        Caldwell       4560099977     
+- FCO4       EastChi        BYoung         SaltLake    340 mi.	$600
+- FCO5       Football       Farve          GreenBay    150 mi.	$250
+- FCO1       Minni          Mouse          UpState     388 mi.	$244
+- FCO3       NDak           Hunter         Elgen       490 mi.	$490
+- FCO2       SDak           Trapper        Mike        460 mi.	$440
+INDI       Indianapol     Manning        3547621111     
+- FCI1       Etown          Eli            NYGiants    340 mi.	$650
+- FCI2       JTown          Archie         JonesTown   320 mi.	$475
+LMTK       Klamath        Kellstrom      1212323443     
+- FCT2       Fishing        Sully          Chiloquin   30 mi.	$30
+- FCT1       LOW            George         LakeFront   60 mi.	$300
+- FCT3       Shakesp        Willy          Ashland     60 mi.	$175
+LAXX       LosAngelos     Breedlove      5418842345     
+- FCL3       Alcatras       BrianF         SFBay       420 mi.	$650
+- FCL5       Goinback       TBreedl        SanFran     400 mi.	$585
+- FCL4       Goinhome       SYang          KFalls      400 mi.	$445
+- FCL1       Outthere       Engineer       Berkely     450 mi.	$543
+- FCL2       SouthSD        HWorld         SDiego      200 mi.	$250
+NASH       Nashville      Elvis          5567890987     
+- FCH2       Countyline     WillSenior     Montgomery  230 mi.	$450
+- FCH1       Golf           Palmer         USOpen      200 mi.	$250
+NYGI       NewYorkGia     Eli            0908781234     
+- FCG2       CookCount      SuzzaneC       PennState   175 mi.	$170
+- FCG1       DueNorth       JergieJ        Maine       200 mi.	$245
+- FCG3       NextDoro       Reagan         NYCity      75 mi.	$90
+PDXX       Portland       Albert         5033359990     
+- FCP1       East           PRanch         Cowboy      290 mi.	$650
+- FCP3       Middle         IsaacG         Bend        150 mi.	$225
+- FCP4       SouthASH       RalphC         Ashland     290 mi.	$359
+- FCP2       SouthCent      DrJim          KFalls      220 mi.	$456
+SFOO       SanFran        Montana        4086674235     
+- FCS1       EastCal        Leffew         Oakdale     240 mi.	$320
+- FCS3       Local          Russel         Oakland     100 mi.	$100
+- FCS2       NorCal         LBrandt        Redding     200 mi.	$275
+- FCS4       SoCal          SYoung         LosAngelos  400 mi.	$585
+___________________________________________________________________
+
+___________________________________________________________________
+                         A to L Iterator
+
+ARIZ       Arizona        Oldguy         5556677888     
+- FCA1       GBetter        Warner         Phoenix     35 mi.	$35
+ATLA       Atlanta        Yang           6352746655     
+- FCA2       Country        Montgomery     Williams    150 mi.	$150
+- FCA3       Humid          Alligator      Orlando     200 mi.	$300
+- FCA1       Quitten        SingerS        LittleRk    234 mi.	$432
+- FCA4       Swamp          BradMan        OakieFino   190 mi.	$230
+EUGE       Eugene         Youngguy       4541234321     
+- FCE2       Beaves         Orange         Corvallis   50 mi.	$50
+- FCE1       Ducks          Hometown       Euge        10 mi.	$10
+INDI       Indianapol     Manning        3547621111     
+- FCI1       Etown          Eli            NYGiants    340 mi.	$650
+- FCI2       JTown          Archie         JonesTown   320 mi.	$475
+LMTK       Klamath        Kellstrom      1212323443     
+- FCT2       Fishing        Sully          Chiloquin   30 mi.	$30
+- FCT1       LOW            George         LakeFront   60 mi.	$300
+- FCT3       Shakesp        Willy          Ashland     60 mi.	$175
+NASH       Nashville      Elvis          5567890987     
+- FCH2       Countyline     WillSenior     Montgomery  230 mi.	$450
+- FCH1       Golf           Palmer         USOpen      200 mi.	$250
+NYGI       NewYorkGia     Eli            0908781234     
+- FCG2       CookCount      SuzzaneC       PennState   175 mi.	$170
+- FCG1       DueNorth       JergieJ        Maine       200 mi.	$245
+- FCG3       NextDoro       Reagan         NYCity      75 mi.	$90
+PDXX       Portland       Albert         5033359990     
+- FCP1       East           PRanch         Cowboy      290 mi.	$650
+- FCP3       Middle         IsaacG         Bend        150 mi.	$225
+- FCP4       SouthASH       RalphC         Ashland     290 mi.	$359
+- FCP2       SouthCent      DrJim          KFalls      220 mi.	$456
+SEAT       Seattle        Hassel         5657473829     
+- FCS1       Tac            SaraG          Tacoma      120 mi.	$75
+- FCS2       Vanc           George         Vancouver   120 mi.	$75
+___________________________________________________________________
+
+___________________________________________________________________
+                         M to Z Iterator
+
+OHAR       Chicago        Caldwell       4560099977     
+- FCO4       EastChi        BYoung         SaltLake    340 mi.	$600
+- FCO5       Football       Farve          GreenBay    150 mi.	$250
+- FCO1       Minni          Mouse          UpState     388 mi.	$244
+- FCO3       NDak           Hunter         Elgen       490 mi.	$490
+- FCO2       SDak           Trapper        Mike        460 mi.	$440
+KCMO       KansasCity     Cassel         1012923847     
+- FCC4       Arch           CptKCC         StLouis     300 mi.	$250
+- FCC3       BigShow        TTucker        Joplin      200 mi.	$345
+- FCC2       Capital        Craig          Lincoln     150 mi.	$275
+- FCC1       Skiresort      Vayda          Aspen       560 mi.	$600
+- FCC5       Townsquare     JesseJames     Liberty     75 mi.	$100
+HEAT       London         Nyugen         0900900909     
+- FCP3       BeenThere      NeilZ          Amsterdam   445 mi.	$300
+- FCP1       Homeland       DennisB        Ireland     340 mi.	$450
+- FCP2       Summerfun      Eve            Paris       280 mi.	$100
+LAXX       LosAngelos     Breedlove      5418842345     
+- FCL3       Alcatras       BrianF         SFBay       420 mi.	$650
+- FCL5       Goinback       TBreedl        SanFran     400 mi.	$585
+- FCL4       Goinhome       SYang          KFalls      400 mi.	$445
+- FCL1       Outthere       Engineer       Berkely     450 mi.	$543
+- FCL2       SouthSD        HWorld         SDiego      200 mi.	$250
+MINN       Mineapolis     Farve          3400009999     
+- FCM3       BestEver       AllDay         Paradise    800 mi.	$999
+- FCM1       Hiking         GenElect       Albany      230 mi.	$400
+- FCM2       Pilot          BobG           TempleNH    340 mi.	$450
+- FCM4       Rivalry        Rogers         GreenBay    99 mi.	$99
+NEWO       NewOrleans     Breese         1112222333     
+- FCN1       BStreet        SandraD        Downtown    5 mi.	$25
+NYJE       NewYorkJet     Sanchez        5731323445     
+- FCJ3       NextDoor       DaveC          Newark      75 mi.	$90
+- FCJ1       NextKin        Kelsea         WiardP      2002 mi.	$875
+- FCJ2       Southby        Brian          Homedale    2000 mi.	$875
+RENN       Reno           Metzler        6678879856     
+- FCR2       EastNev        Parker         Ely         330 mi.	$500
+- FCR1       NorthNev       Rosemarie      Alturas     175 mi.	$275
+- FCR3       SouthNev       Collins        LasVegas    430 mi.	$25
+SFOO       SanFran        Montana        4086674235     
+- FCS1       EastCal        Leffew         Oakdale     240 mi.	$320
+- FCS3       Local          Russel         Oakland     100 mi.	$100
+- FCS2       NorCal         LBrandt        Redding     200 mi.	$275
+- FCS4       SoCal          SYoung         LosAngelos  400 mi.	$585
+___________________________________________________________________
+
+___________________________________________________________________
+                        Reverse Iterator
+
+SEAT       Seattle        Hassel         5657473829     
+- FCS1       Tac            SaraG          Tacoma      120 mi.	$75
+- FCS2       Vanc           George         Vancouver   120 mi.	$75
+SFOO       SanFran        Montana        4086674235     
+- FCS1       EastCal        Leffew         Oakdale     240 mi.	$320
+- FCS3       Local          Russel         Oakland     100 mi.	$100
+- FCS2       NorCal         LBrandt        Redding     200 mi.	$275
+- FCS4       SoCal          SYoung         LosAngelos  400 mi.	$585
+RENN       Reno           Metzler        6678879856     
+- FCR2       EastNev        Parker         Ely         330 mi.	$500
+- FCR1       NorthNev       Rosemarie      Alturas     175 mi.	$275
+- FCR3       SouthNev       Collins        LasVegas    430 mi.	$25
+PDXX       Portland       Albert         5033359990     
+- FCP1       East           PRanch         Cowboy      290 mi.	$650
+- FCP3       Middle         IsaacG         Bend        150 mi.	$225
+- FCP4       SouthASH       RalphC         Ashland     290 mi.	$359
+- FCP2       SouthCent      DrJim          KFalls      220 mi.	$456
+NYJE       NewYorkJet     Sanchez        5731323445     
+- FCJ3       NextDoor       DaveC          Newark      75 mi.	$90
+- FCJ1       NextKin        Kelsea         WiardP      2002 mi.	$875
+- FCJ2       Southby        Brian          Homedale    2000 mi.	$875
+NYGI       NewYorkGia     Eli            0908781234     
+- FCG2       CookCount      SuzzaneC       PennState   175 mi.	$170
+- FCG1       DueNorth       JergieJ        Maine       200 mi.	$245
+- FCG3       NextDoro       Reagan         NYCity      75 mi.	$90
+NEWO       NewOrleans     Breese         1112222333     
+- FCN1       BStreet        SandraD        Downtown    5 mi.	$25
+NASH       Nashville      Elvis          5567890987     
+- FCH2       Countyline     WillSenior     Montgomery  230 mi.	$450
+- FCH1       Golf           Palmer         USOpen      200 mi.	$250
+MINN       Mineapolis     Farve          3400009999     
+- FCM3       BestEver       AllDay         Paradise    800 mi.	$999
+- FCM1       Hiking         GenElect       Albany      230 mi.	$400
+- FCM2       Pilot          BobG           TempleNH    340 mi.	$450
+- FCM4       Rivalry        Rogers         GreenBay    99 mi.	$99
+LAXX       LosAngelos     Breedlove      5418842345     
+- FCL3       Alcatras       BrianF         SFBay       420 mi.	$650
+- FCL5       Goinback       TBreedl        SanFran     400 mi.	$585
+- FCL4       Goinhome       SYang          KFalls      400 mi.	$445
+- FCL1       Outthere       Engineer       Berkely     450 mi.	$543
+- FCL2       SouthSD        HWorld         SDiego      200 mi.	$250
+HEAT       London         Nyugen         0900900909     
+- FCP3       BeenThere      NeilZ          Amsterdam   445 mi.	$300
+- FCP1       Homeland       DennisB        Ireland     340 mi.	$450
+- FCP2       Summerfun      Eve            Paris       280 mi.	$100
+LMTK       Klamath        Kellstrom      1212323443     
+- FCT2       Fishing        Sully          Chiloquin   30 mi.	$30
+- FCT1       LOW            George         LakeFront   60 mi.	$300
+- FCT3       Shakesp        Willy          Ashland     60 mi.	$175
+KCMO       KansasCity     Cassel         1012923847     
+- FCC4       Arch           CptKCC         StLouis     300 mi.	$250
+- FCC3       BigShow        TTucker        Joplin      200 mi.	$345
+- FCC2       Capital        Craig          Lincoln     150 mi.	$275
+- FCC1       Skiresort      Vayda          Aspen       560 mi.	$600
+- FCC5       Townsquare     JesseJames     Liberty     75 mi.	$100
+INDI       Indianapol     Manning        3547621111     
+- FCI1       Etown          Eli            NYGiants    340 mi.	$650
+- FCI2       JTown          Archie         JonesTown   320 mi.	$475
+EUGE       Eugene         Youngguy       4541234321     
+- FCE2       Beaves         Orange         Corvallis   50 mi.	$50
+- FCE1       Ducks          Hometown       Euge        10 mi.	$10
+OHAR       Chicago        Caldwell       4560099977     
+- FCO4       EastChi        BYoung         SaltLake    340 mi.	$600
+- FCO5       Football       Farve          GreenBay    150 mi.	$250
+- FCO1       Minni          Mouse          UpState     388 mi.	$244
+- FCO3       NDak           Hunter         Elgen       490 mi.	$490
+- FCO2       SDak           Trapper        Mike        460 mi.	$440
+ATLA       Atlanta        Yang           6352746655     
+- FCA2       Country        Montgomery     Williams    150 mi.	$150
+- FCA3       Humid          Alligator      Orlando     200 mi.	$300
+- FCA1       Quitten        SingerS        LittleRk    234 mi.	$432
+- FCA4       Swamp          BradMan        OakieFino   190 mi.	$230
+ARIZ       Arizona        Oldguy         5556677888     
+- FCA1       GBetter        Warner         Phoenix     35 mi.	$35
+___________________________________________________________________
+
+LF
+PDXX       Portland       Albert         5033359990     
+- FCP4       SouthASH       RalphC         Ashland     290 mi.	$359
+
+LA
+- FCP3       Middle         IsaacG         Bend        150 mi.	$225
+- FCP4       SouthASH       RalphC         Ashland     290 mi.	$359
+PN
+Found:
+OHAR       Chicago        Caldwell       4560099977     
+- FCO4       EastChi        BYoung         SaltLake    340 mi.	$600
+- FCO5       Football       Farve          GreenBay    150 mi.	$250
+- FCO1       Minni          Mouse          UpState     388 mi.	$244
+- FCO3       NDak           Hunter         Elgen       490 mi.	$490
+- FCO2       SDak           Trapper        Mike        460 mi.	$440
+--
+
+PC
+Could not find CINC
+
+Deleted Atlanta from AirList
+
+Could not find Humid
+
+Deleted LMTK from AirList
+
+Could not find Atlanta
+
+Could not find LMTK
+
+Found:
+SFOO       SanFran        Montana        4086674235     
+- FCS1       EastCal        Leffew         Oakdale     240 mi.	$320
+- FCS3       Local          Russel         Oakland     100 mi.	$100
+- FCS2       NorCal         LBrandt        Redding     200 mi.	$275
+- FCS4       SoCal          SYoung         LosAngelos  400 mi.	$585
+--
+
+Found:
+NYJE       NewYorkJet     Sanchez        5731323445     
+- FCJ3       NextDoor       DaveC          Newark      75 mi.	$90
+- FCJ1       NextKin        Kelsea         WiardP      2002 mi.	$875
+- FCJ2       Southby        Brian          Homedale    2000 mi.	$875
+--
+
+Could not find OAKL
+
+Found:
+KCMO       KansasCity     Cassel         1012923847     
+- FCC4       Arch           CptKCC         StLouis     300 mi.	$250
+- FCC3       BigShow        TTucker        Joplin      200 mi.	$345
+- FCC2       Capital        Craig          Lincoln     150 mi.	$275
+- FCC1       Skiresort      Vayda          Aspen       560 mi.	$600
+- FCC5       Townsquare     JesseJames     Liberty     75 mi.	$100
+--
+
+Deleted Reno from AirList
+
+- Somename
+ARIZ       Arizona        Oldguy         5556677888     
+FCA1       GBetter        Warner         Phoenix     35 mi.	$35
+NYGI       NewYorkGia     Eli            0908781234     
+FCG2       CookCount      SuzzaneC       PennState   175 mi.	$170
+INDI       Indianapol     Manning        3547621111     
+FCI1       Etown          Eli            NYGiants    340 mi.	$650
+SFOO       SanFran        Montana        4086674235     
+FCS1       EastCal        Leffew         Oakdale     240 mi.	$320
+PDXX       Portland       Albert         5033359990     
+FCP1       East           PRanch         Cowboy      290 mi.	$650
+PDXX       Portland       Albert         5033359990     
+FCP2       SouthCent      DrJim          KFalls      220 mi.	$456
+PA
+___________________________________________________________________
+                        Generic Iterator
+
+ARIZ       Arizona        Oldguy         5556677888     
+- FCA1       GBetter        Warner         Phoenix     35 mi.	$35
+OHAR       Chicago        Caldwell       4560099977     
+- FCO4       EastChi        BYoung         SaltLake    340 mi.	$600
+- FCO5       Football       Farve          GreenBay    150 mi.	$250
+- FCO1       Minni          Mouse          UpState     388 mi.	$244
+- FCO3       NDak           Hunter         Elgen       490 mi.	$490
+- FCO2       SDak           Trapper        Mike        460 mi.	$440
+EUGE       Eugene         Youngguy       4541234321     
+- FCE2       Beaves         Orange         Corvallis   50 mi.	$50
+- FCE1       Ducks          Hometown       Euge        10 mi.	$10
+INDI       Indianapol     Manning        3547621111     
+- FCI1       Etown          Eli            NYGiants    340 mi.	$650
+- FCI2       JTown          Archie         JonesTown   320 mi.	$475
+KCMO       KansasCity     Cassel         1012923847     
+- FCC4       Arch           CptKCC         StLouis     300 mi.	$250
+- FCC3       BigShow        TTucker        Joplin      200 mi.	$345
+- FCC2       Capital        Craig          Lincoln     150 mi.	$275
+- FCC1       Skiresort      Vayda          Aspen       560 mi.	$600
+- FCC5       Townsquare     JesseJames     Liberty     75 mi.	$100
+HEAT       London         Nyugen         0900900909     
+- FCP3       BeenThere      NeilZ          Amsterdam   445 mi.	$300
+- FCP1       Homeland       DennisB        Ireland     340 mi.	$450
+- FCP2       Summerfun      Eve            Paris       280 mi.	$100
+LAXX       LosAngelos     Breedlove      5418842345     
+- FCL3       Alcatras       BrianF         SFBay       420 mi.	$650
+- FCL5       Goinback       TBreedl        SanFran     400 mi.	$585
+- FCL4       Goinhome       SYang          KFalls      400 mi.	$445
+- FCL1       Outthere       Engineer       Berkely     450 mi.	$543
+- FCL2       SouthSD        HWorld         SDiego      200 mi.	$250
+MINN       Mineapolis     Farve          3400009999     
+- FCM3       BestEver       AllDay         Paradise    800 mi.	$999
+- FCM1       Hiking         GenElect       Albany      230 mi.	$400
+- FCM2       Pilot          BobG           TempleNH    340 mi.	$450
+- FCM4       Rivalry        Rogers         GreenBay    99 mi.	$99
+NASH       Nashville      Elvis          5567890987     
+- FCH2       Countyline     WillSenior     Montgomery  230 mi.	$450
+- FCH1       Golf           Palmer         USOpen      200 mi.	$250
+NEWO       NewOrleans     Breese         1112222333     
+- FCN1       BStreet        SandraD        Downtown    5 mi.	$25
+NYGI       NewYorkGia     Eli            0908781234     
+- FCG2       CookCount      SuzzaneC       PennState   175 mi.	$170
+- FCG1       DueNorth       JergieJ        Maine       200 mi.	$245
+- FCG3       NextDoro       Reagan         NYCity      75 mi.	$90
+NYJE       NewYorkJet     Sanchez        5731323445     
+- FCJ3       NextDoor       DaveC          Newark      75 mi.	$90
+- FCJ1       NextKin        Kelsea         WiardP      2002 mi.	$875
+- FCJ2       Southby        Brian          Homedale    2000 mi.	$875
+PDXX       Portland       Albert         5033359990     
+- FCP1       East           PRanch         Cowboy      290 mi.	$650
+- FCP3       Middle         IsaacG         Bend        150 mi.	$225
+- FCP4       SouthASH       RalphC         Ashland     290 mi.	$359
+- FCP2       SouthCent      DrJim          KFalls      220 mi.	$456
+SFOO       SanFran        Montana        4086674235     
+- FCS1       EastCal        Leffew         Oakdale     240 mi.	$320
+- FCS3       Local          Russel         Oakland     100 mi.	$100
+- FCS2       NorCal         LBrandt        Redding     200 mi.	$275
+- FCS4       SoCal          SYoung         LosAngelos  400 mi.	$585
+SEAT       Seattle        Hassel         5657473829     
+- FCS1       Tac            SaraG          Tacoma      120 mi.	$75
+- FCS2       Vanc           George         Vancouver   120 mi.	$75
+___________________________________________________________________
+
+___________________________________________________________________
+                           Skip Iterator
+
+ARIZ       Arizona        Oldguy         5556677888     
+- FCA1       GBetter        Warner         Phoenix     35 mi.	$35
+EUGE       Eugene         Youngguy       4541234321     
+- FCE2       Beaves         Orange         Corvallis   50 mi.	$50
+- FCE1       Ducks          Hometown       Euge        10 mi.	$10
+KCMO       KansasCity     Cassel         1012923847     
+- FCC4       Arch           CptKCC         StLouis     300 mi.	$250
+- FCC3       BigShow        TTucker        Joplin      200 mi.	$345
+- FCC2       Capital        Craig          Lincoln     150 mi.	$275
+- FCC1       Skiresort      Vayda          Aspen       560 mi.	$600
+- FCC5       Townsquare     JesseJames     Liberty     75 mi.	$100
+LAXX       LosAngelos     Breedlove      5418842345     
+- FCL3       Alcatras       BrianF         SFBay       420 mi.	$650
+- FCL5       Goinback       TBreedl        SanFran     400 mi.	$585
+- FCL4       Goinhome       SYang          KFalls      400 mi.	$445
+- FCL1       Outthere       Engineer       Berkely     450 mi.	$543
+- FCL2       SouthSD        HWorld         SDiego      200 mi.	$250
+NASH       Nashville      Elvis          5567890987     
+- FCH2       Countyline     WillSenior     Montgomery  230 mi.	$450
+- FCH1       Golf           Palmer         USOpen      200 mi.	$250
+NYGI       NewYorkGia     Eli            0908781234     
+- FCG2       CookCount      SuzzaneC       PennState   175 mi.	$170
+- FCG1       DueNorth       JergieJ        Maine       200 mi.	$245
+- FCG3       NextDoro       Reagan         NYCity      75 mi.	$90
+PDXX       Portland       Albert         5033359990     
+- FCP1       East           PRanch         Cowboy      290 mi.	$650
+- FCP3       Middle         IsaacG         Bend        150 mi.	$225
+- FCP4       SouthASH       RalphC         Ashland     290 mi.	$359
+- FCP2       SouthCent      DrJim          KFalls      220 mi.	$456
+SEAT       Seattle        Hassel         5657473829     
+- FCS1       Tac            SaraG          Tacoma      120 mi.	$75
+- FCS2       Vanc           George         Vancouver   120 mi.	$75
+___________________________________________________________________
+
+___________________________________________________________________
+                         A to L Iterator
+
+ARIZ       Arizona        Oldguy         5556677888     
+- FCA1       GBetter        Warner         Phoenix     35 mi.	$35
+EUGE       Eugene         Youngguy       4541234321     
+- FCE2       Beaves         Orange         Corvallis   50 mi.	$50
+- FCE1       Ducks          Hometown       Euge        10 mi.	$10
+INDI       Indianapol     Manning        3547621111     
+- FCI1       Etown          Eli            NYGiants    340 mi.	$650
+- FCI2       JTown          Archie         JonesTown   320 mi.	$475
+NASH       Nashville      Elvis          5567890987     
+- FCH2       Countyline     WillSenior     Montgomery  230 mi.	$450
+- FCH1       Golf           Palmer         USOpen      200 mi.	$250
+NYGI       NewYorkGia     Eli            0908781234     
+- FCG2       CookCount      SuzzaneC       PennState   175 mi.	$170
+- FCG1       DueNorth       JergieJ        Maine       200 mi.	$245
+- FCG3       NextDoro       Reagan         NYCity      75 mi.	$90
+PDXX       Portland       Albert         5033359990     
+- FCP1       East           PRanch         Cowboy      290 mi.	$650
+- FCP3       Middle         IsaacG         Bend        150 mi.	$225
+- FCP4       SouthASH       RalphC         Ashland     290 mi.	$359
+- FCP2       SouthCent      DrJim          KFalls      220 mi.	$456
+SEAT       Seattle        Hassel         5657473829     
+- FCS1       Tac            SaraG          Tacoma      120 mi.	$75
+- FCS2       Vanc           George         Vancouver   120 mi.	$75
+___________________________________________________________________
+
+___________________________________________________________________
+                         M to Z Iterator
+
+OHAR       Chicago        Caldwell       4560099977     
+- FCO4       EastChi        BYoung         SaltLake    340 mi.	$600
+- FCO5       Football       Farve          GreenBay    150 mi.	$250
+- FCO1       Minni          Mouse          UpState     388 mi.	$244
+- FCO3       NDak           Hunter         Elgen       490 mi.	$490
+- FCO2       SDak           Trapper        Mike        460 mi.	$440
+KCMO       KansasCity     Cassel         1012923847     
+- FCC4       Arch           CptKCC         StLouis     300 mi.	$250
+- FCC3       BigShow        TTucker        Joplin      200 mi.	$345
+- FCC2       Capital        Craig          Lincoln     150 mi.	$275
+- FCC1       Skiresort      Vayda          Aspen       560 mi.	$600
+- FCC5       Townsquare     JesseJames     Liberty     75 mi.	$100
+HEAT       London         Nyugen         0900900909     
+- FCP3       BeenThere      NeilZ          Amsterdam   445 mi.	$300
+- FCP1       Homeland       DennisB        Ireland     340 mi.	$450
+- FCP2       Summerfun      Eve            Paris       280 mi.	$100
+LAXX       LosAngelos     Breedlove      5418842345     
+- FCL3       Alcatras       BrianF         SFBay       420 mi.	$650
+- FCL5       Goinback       TBreedl        SanFran     400 mi.	$585
+- FCL4       Goinhome       SYang          KFalls      400 mi.	$445
+- FCL1       Outthere       Engineer       Berkely     450 mi.	$543
+- FCL2       SouthSD        HWorld         SDiego      200 mi.	$250
+MINN       Mineapolis     Farve          3400009999     
+- FCM3       BestEver       AllDay         Paradise    800 mi.	$999
+- FCM1       Hiking         GenElect       Albany      230 mi.	$400
+- FCM2       Pilot          BobG           TempleNH    340 mi.	$450
+- FCM4       Rivalry        Rogers         GreenBay    99 mi.	$99
+NEWO       NewOrleans     Breese         1112222333     
+- FCN1       BStreet        SandraD        Downtown    5 mi.	$25
+NYJE       NewYorkJet     Sanchez        5731323445     
+- FCJ3       NextDoor       DaveC          Newark      75 mi.	$90
+- FCJ1       NextKin        Kelsea         WiardP      2002 mi.	$875
+- FCJ2       Southby        Brian          Homedale    2000 mi.	$875
+SFOO       SanFran        Montana        4086674235     
+- FCS1       EastCal        Leffew         Oakdale     240 mi.	$320
+- FCS3       Local          Russel         Oakland     100 mi.	$100
+- FCS2       NorCal         LBrandt        Redding     200 mi.	$275
+- FCS4       SoCal          SYoung         LosAngelos  400 mi.	$585
+___________________________________________________________________
+
+___________________________________________________________________
+                        Reverse Iterator
+
+SEAT       Seattle        Hassel         5657473829     
+- FCS1       Tac            SaraG          Tacoma      120 mi.	$75
+- FCS2       Vanc           George         Vancouver   120 mi.	$75
+SFOO       SanFran        Montana        4086674235     
+- FCS1       EastCal        Leffew         Oakdale     240 mi.	$320
+- FCS3       Local          Russel         Oakland     100 mi.	$100
+- FCS2       NorCal         LBrandt        Redding     200 mi.	$275
+- FCS4       SoCal          SYoung         LosAngelos  400 mi.	$585
+PDXX       Portland       Albert         5033359990     
+- FCP1       East           PRanch         Cowboy      290 mi.	$650
+- FCP3       Middle         IsaacG         Bend        150 mi.	$225
+- FCP4       SouthASH       RalphC         Ashland     290 mi.	$359
+- FCP2       SouthCent      DrJim          KFalls      220 mi.	$456
+NYJE       NewYorkJet     Sanchez        5731323445     
+- FCJ3       NextDoor       DaveC          Newark      75 mi.	$90
+- FCJ1       NextKin        Kelsea         WiardP      2002 mi.	$875
+- FCJ2       Southby        Brian          Homedale    2000 mi.	$875
+NYGI       NewYorkGia     Eli            0908781234     
+- FCG2       CookCount      SuzzaneC       PennState   175 mi.	$170
+- FCG1       DueNorth       JergieJ        Maine       200 mi.	$245
+- FCG3       NextDoro       Reagan         NYCity      75 mi.	$90
+NEWO       NewOrleans     Breese         1112222333     
+- FCN1       BStreet        SandraD        Downtown    5 mi.	$25
+NASH       Nashville      Elvis          5567890987     
+- FCH2       Countyline     WillSenior     Montgomery  230 mi.	$450
+- FCH1       Golf           Palmer         USOpen      200 mi.	$250
+MINN       Mineapolis     Farve          3400009999     
+- FCM3       BestEver       AllDay         Paradise    800 mi.	$999
+- FCM1       Hiking         GenElect       Albany      230 mi.	$400
+- FCM2       Pilot          BobG           TempleNH    340 mi.	$450
+- FCM4       Rivalry        Rogers         GreenBay    99 mi.	$99
+LAXX       LosAngelos     Breedlove      5418842345     
+- FCL3       Alcatras       BrianF         SFBay       420 mi.	$650
+- FCL5       Goinback       TBreedl        SanFran     400 mi.	$585
+- FCL4       Goinhome       SYang          KFalls      400 mi.	$445
+- FCL1       Outthere       Engineer       Berkely     450 mi.	$543
+- FCL2       SouthSD        HWorld         SDiego      200 mi.	$250
+HEAT       London         Nyugen         0900900909     
+- FCP3       BeenThere      NeilZ          Amsterdam   445 mi.	$300
+- FCP1       Homeland       DennisB        Ireland     340 mi.	$450
+- FCP2       Summerfun      Eve            Paris       280 mi.	$100
+KCMO       KansasCity     Cassel         1012923847     
+- FCC4       Arch           CptKCC         StLouis     300 mi.	$250
+- FCC3       BigShow        TTucker        Joplin      200 mi.	$345
+- FCC2       Capital        Craig          Lincoln     150 mi.	$275
+- FCC1       Skiresort      Vayda          Aspen       560 mi.	$600
+- FCC5       Townsquare     JesseJames     Liberty     75 mi.	$100
+INDI       Indianapol     Manning        3547621111     
+- FCI1       Etown          Eli            NYGiants    340 mi.	$650
+- FCI2       JTown          Archie         JonesTown   320 mi.	$475
+EUGE       Eugene         Youngguy       4541234321     
+- FCE2       Beaves         Orange         Corvallis   50 mi.	$50
+- FCE1       Ducks          Hometown       Euge        10 mi.	$10
+OHAR       Chicago        Caldwell       4560099977     
+- FCO4       EastChi        BYoung         SaltLake    340 mi.	$600
+- FCO5       Football       Farve          GreenBay    150 mi.	$250
+- FCO1       Minni          Mouse          UpState     388 mi.	$244
+- FCO3       NDak           Hunter         Elgen       490 mi.	$490
+- FCO2       SDak           Trapper        Mike        460 mi.	$440
+ARIZ       Arizona        Oldguy         5556677888     
+- FCA1       GBetter        Warner         Phoenix     35 mi.	$35
+___________________________________________________________________
+
+LF
+LAXX       LosAngelos     Breedlove      5418842345     
+- FCL5       Goinback       TBreedl        SanFran     400 mi.	$585
+
+DC
+Deleted LAXX from AirList
+
+LF
+Could not find Goinback
+
+LA
+- NorthNev
+PN
+Could not find LosAngelos
+
+LF
+NYJE       NewYorkJet     Sanchez        5731323445     
+- FCJ3       NextDoor       DaveC          Newark      75 mi.	$90
+
+DC
+Deleted NYJE from AirList
+
+LF
+Could not find NextDoor
+
+DC
+Deleted NYGI from AirList
+
+PA
+___________________________________________________________________
+                        Generic Iterator
+
+ARIZ       Arizona        Oldguy         5556677888     
+- FCA1       GBetter        Warner         Phoenix     35 mi.	$35
+OHAR       Chicago        Caldwell       4560099977     
+- FCO4       EastChi        BYoung         SaltLake    340 mi.	$600
+- FCO5       Football       Farve          GreenBay    150 mi.	$250
+- FCO1       Minni          Mouse          UpState     388 mi.	$244
+- FCO3       NDak           Hunter         Elgen       490 mi.	$490
+- FCO2       SDak           Trapper        Mike        460 mi.	$440
+EUGE       Eugene         Youngguy       4541234321     
+- FCE2       Beaves         Orange         Corvallis   50 mi.	$50
+- FCE1       Ducks          Hometown       Euge        10 mi.	$10
+INDI       Indianapol     Manning        3547621111     
+- FCI1       Etown          Eli            NYGiants    340 mi.	$650
+- FCI2       JTown          Archie         JonesTown   320 mi.	$475
+KCMO       KansasCity     Cassel         1012923847     
+- FCC4       Arch           CptKCC         StLouis     300 mi.	$250
+- FCC3       BigShow        TTucker        Joplin      200 mi.	$345
+- FCC2       Capital        Craig          Lincoln     150 mi.	$275
+- FCC1       Skiresort      Vayda          Aspen       560 mi.	$600
+- FCC5       Townsquare     JesseJames     Liberty     75 mi.	$100
+HEAT       London         Nyugen         0900900909     
+- FCP3       BeenThere      NeilZ          Amsterdam   445 mi.	$300
+- FCP1       Homeland       DennisB        Ireland     340 mi.	$450
+- FCP2       Summerfun      Eve            Paris       280 mi.	$100
+MINN       Mineapolis     Farve          3400009999     
+- FCM3       BestEver       AllDay         Paradise    800 mi.	$999
+- FCM1       Hiking         GenElect       Albany      230 mi.	$400
+- FCM2       Pilot          BobG           TempleNH    340 mi.	$450
+- FCM4       Rivalry        Rogers         GreenBay    99 mi.	$99
+NASH       Nashville      Elvis          5567890987     
+- FCH2       Countyline     WillSenior     Montgomery  230 mi.	$450
+- FCH1       Golf           Palmer         USOpen      200 mi.	$250
+NEWO       NewOrleans     Breese         1112222333     
+- FCN1       BStreet        SandraD        Downtown    5 mi.	$25
+PDXX       Portland       Albert         5033359990     
+- FCP1       East           PRanch         Cowboy      290 mi.	$650
+- FCP3       Middle         IsaacG         Bend        150 mi.	$225
+- FCP4       SouthASH       RalphC         Ashland     290 mi.	$359
+- FCP2       SouthCent      DrJim          KFalls      220 mi.	$456
+SFOO       SanFran        Montana        4086674235     
+- FCS1       EastCal        Leffew         Oakdale     240 mi.	$320
+- FCS3       Local          Russel         Oakland     100 mi.	$100
+- FCS2       NorCal         LBrandt        Redding     200 mi.	$275
+- FCS4       SoCal          SYoung         LosAngelos  400 mi.	$585
+SEAT       Seattle        Hassel         5657473829     
+- FCS1       Tac            SaraG          Tacoma      120 mi.	$75
+- FCS2       Vanc           George         Vancouver   120 mi.	$75
+___________________________________________________________________
+
+___________________________________________________________________
+                           Skip Iterator
+
+ARIZ       Arizona        Oldguy         5556677888     
+- FCA1       GBetter        Warner         Phoenix     35 mi.	$35
+EUGE       Eugene         Youngguy       4541234321     
+- FCE2       Beaves         Orange         Corvallis   50 mi.	$50
+- FCE1       Ducks          Hometown       Euge        10 mi.	$10
+KCMO       KansasCity     Cassel         1012923847     
+- FCC4       Arch           CptKCC         StLouis     300 mi.	$250
+- FCC3       BigShow        TTucker        Joplin      200 mi.	$345
+- FCC2       Capital        Craig          Lincoln     150 mi.	$275
+- FCC1       Skiresort      Vayda          Aspen       560 mi.	$600
+- FCC5       Townsquare     JesseJames     Liberty     75 mi.	$100
+MINN       Mineapolis     Farve          3400009999     
+- FCM3       BestEver       AllDay         Paradise    800 mi.	$999
+- FCM1       Hiking         GenElect       Albany      230 mi.	$400
+- FCM2       Pilot          BobG           TempleNH    340 mi.	$450
+- FCM4       Rivalry        Rogers         GreenBay    99 mi.	$99
+NEWO       NewOrleans     Breese         1112222333     
+- FCN1       BStreet        SandraD        Downtown    5 mi.	$25
+SFOO       SanFran        Montana        4086674235     
+- FCS1       EastCal        Leffew         Oakdale     240 mi.	$320
+- FCS3       Local          Russel         Oakland     100 mi.	$100
+- FCS2       NorCal         LBrandt        Redding     200 mi.	$275
+- FCS4       SoCal          SYoung         LosAngelos  400 mi.	$585
+___________________________________________________________________
+
+___________________________________________________________________
+                         A to L Iterator
+
+ARIZ       Arizona        Oldguy         5556677888     
+- FCA1       GBetter        Warner         Phoenix     35 mi.	$35
+EUGE       Eugene         Youngguy       4541234321     
+- FCE2       Beaves         Orange         Corvallis   50 mi.	$50
+- FCE1       Ducks          Hometown       Euge        10 mi.	$10
+INDI       Indianapol     Manning        3547621111     
+- FCI1       Etown          Eli            NYGiants    340 mi.	$650
+- FCI2       JTown          Archie         JonesTown   320 mi.	$475
+NASH       Nashville      Elvis          5567890987     
+- FCH2       Countyline     WillSenior     Montgomery  230 mi.	$450
+- FCH1       Golf           Palmer         USOpen      200 mi.	$250
+PDXX       Portland       Albert         5033359990     
+- FCP1       East           PRanch         Cowboy      290 mi.	$650
+- FCP3       Middle         IsaacG         Bend        150 mi.	$225
+- FCP4       SouthASH       RalphC         Ashland     290 mi.	$359
+- FCP2       SouthCent      DrJim          KFalls      220 mi.	$456
+SEAT       Seattle        Hassel         5657473829     
+- FCS1       Tac            SaraG          Tacoma      120 mi.	$75
+- FCS2       Vanc           George         Vancouver   120 mi.	$75
+___________________________________________________________________
+
+___________________________________________________________________
+                         M to Z Iterator
+
+OHAR       Chicago        Caldwell       4560099977     
+- FCO4       EastChi        BYoung         SaltLake    340 mi.	$600
+- FCO5       Football       Farve          GreenBay    150 mi.	$250
+- FCO1       Minni          Mouse          UpState     388 mi.	$244
+- FCO3       NDak           Hunter         Elgen       490 mi.	$490
+- FCO2       SDak           Trapper        Mike        460 mi.	$440
+KCMO       KansasCity     Cassel         1012923847     
+- FCC4       Arch           CptKCC         StLouis     300 mi.	$250
+- FCC3       BigShow        TTucker        Joplin      200 mi.	$345
+- FCC2       Capital        Craig          Lincoln     150 mi.	$275
+- FCC1       Skiresort      Vayda          Aspen       560 mi.	$600
+- FCC5       Townsquare     JesseJames     Liberty     75 mi.	$100
+HEAT       London         Nyugen         0900900909     
+- FCP3       BeenThere      NeilZ          Amsterdam   445 mi.	$300
+- FCP1       Homeland       DennisB        Ireland     340 mi.	$450
+- FCP2       Summerfun      Eve            Paris       280 mi.	$100
+MINN       Mineapolis     Farve          3400009999     
+- FCM3       BestEver       AllDay         Paradise    800 mi.	$999
+- FCM1       Hiking         GenElect       Albany      230 mi.	$400
+- FCM2       Pilot          BobG           TempleNH    340 mi.	$450
+- FCM4       Rivalry        Rogers         GreenBay    99 mi.	$99
+NEWO       NewOrleans     Breese         1112222333     
+- FCN1       BStreet        SandraD        Downtown    5 mi.	$25
+SFOO       SanFran        Montana        4086674235     
+- FCS1       EastCal        Leffew         Oakdale     240 mi.	$320
+- FCS3       Local          Russel         Oakland     100 mi.	$100
+- FCS2       NorCal         LBrandt        Redding     200 mi.	$275
+- FCS4       SoCal          SYoung         LosAngelos  400 mi.	$585
+___________________________________________________________________
+
+___________________________________________________________________
+                        Reverse Iterator
+
+SEAT       Seattle        Hassel         5657473829     
+- FCS1       Tac            SaraG          Tacoma      120 mi.	$75
+- FCS2       Vanc           George         Vancouver   120 mi.	$75
+SFOO       SanFran        Montana        4086674235     
+- FCS1       EastCal        Leffew         Oakdale     240 mi.	$320
+- FCS3       Local          Russel         Oakland     100 mi.	$100
+- FCS2       NorCal         LBrandt        Redding     200 mi.	$275
+- FCS4       SoCal          SYoung         LosAngelos  400 mi.	$585
+PDXX       Portland       Albert         5033359990     
+- FCP1       East           PRanch         Cowboy      290 mi.	$650
+- FCP3       Middle         IsaacG         Bend        150 mi.	$225
+- FCP4       SouthASH       RalphC         Ashland     290 mi.	$359
+- FCP2       SouthCent      DrJim          KFalls      220 mi.	$456
+NEWO       NewOrleans     Breese         1112222333     
+- FCN1       BStreet        SandraD        Downtown    5 mi.	$25
+NASH       Nashville      Elvis          5567890987     
+- FCH2       Countyline     WillSenior     Montgomery  230 mi.	$450
+- FCH1       Golf           Palmer         USOpen      200 mi.	$250
+MINN       Mineapolis     Farve          3400009999     
+- FCM3       BestEver       AllDay         Paradise    800 mi.	$999
+- FCM1       Hiking         GenElect       Albany      230 mi.	$400
+- FCM2       Pilot          BobG           TempleNH    340 mi.	$450
+- FCM4       Rivalry        Rogers         GreenBay    99 mi.	$99
+HEAT       London         Nyugen         0900900909     
+- FCP3       BeenThere      NeilZ          Amsterdam   445 mi.	$300
+- FCP1       Homeland       DennisB        Ireland     340 mi.	$450
+- FCP2       Summerfun      Eve            Paris       280 mi.	$100
+KCMO       KansasCity     Cassel         1012923847     
+- FCC4       Arch           CptKCC         StLouis     300 mi.	$250
+- FCC3       BigShow        TTucker        Joplin      200 mi.	$345
+- FCC2       Capital        Craig          Lincoln     150 mi.	$275
+- FCC1       Skiresort      Vayda          Aspen       560 mi.	$600
+- FCC5       Townsquare     JesseJames     Liberty     75 mi.	$100
+INDI       Indianapol     Manning        3547621111     
+- FCI1       Etown          Eli            NYGiants    340 mi.	$650
+- FCI2       JTown          Archie         JonesTown   320 mi.	$475
+EUGE       Eugene         Youngguy       4541234321     
+- FCE2       Beaves         Orange         Corvallis   50 mi.	$50
+- FCE1       Ducks          Hometown       Euge        10 mi.	$10
+OHAR       Chicago        Caldwell       4560099977     
+- FCO4       EastChi        BYoung         SaltLake    340 mi.	$600
+- FCO5       Football       Farve          GreenBay    150 mi.	$250
+- FCO1       Minni          Mouse          UpState     388 mi.	$244
+- FCO3       NDak           Hunter         Elgen       490 mi.	$490
+- FCO2       SDak           Trapper        Mike        460 mi.	$440
+ARIZ       Arizona        Oldguy         5556677888     
+- FCA1       GBetter        Warner         Phoenix     35 mi.	$35
+___________________________________________________________________
+
+EX
+
+****-Exiting Program-****
+****-Goodbye-****

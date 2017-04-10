@@ -1,0 +1,30 @@
+PA
+LF SouthASH
+LA Middle
+PN Chicago
+PC CINC
+EC
+DN Atlanta
+LF Humid
+DC LMTK
+PN Atlanta
+PC LMTK
+PN SanFran
+PN NewYorkJet
+PC OAKL
+PC KCMO
+DN Reno
+LA Somename
+EC
+PA
+LF Goinback
+DC LAXX
+LF Goinback
+LA NorthNev
+PN LosAngelos
+LF NextDoor
+DC NYJE
+LF NextDoor
+DC NYGI
+PA
+EX
